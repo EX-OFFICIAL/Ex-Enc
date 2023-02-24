@@ -29,7 +29,7 @@
 
 - `rm -rf Ex-Enc`
 
-- `git clone https://github.com/Mr3x1/Ex-Enc`
+- `git clone https://github.com/EX-OFFICIAL/Ex-Enc`
 
 - `cd Ex-Enc`
 
